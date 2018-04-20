@@ -1,0 +1,18 @@
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\jmallegue\Desktop\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\jmallegue\Desktop\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\jmallegue\Desktop\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\jmallegue\Desktop\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
