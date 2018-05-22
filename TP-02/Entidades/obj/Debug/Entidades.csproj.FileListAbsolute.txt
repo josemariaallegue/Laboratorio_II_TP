@@ -14,3 +14,9 @@ C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\TP 2\TP-02\Entidades\ob
 C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\TP 2\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\TP 2\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\jmallegue\Documents\Visual Studio 2017\Projects\TP 2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\jmallegue\Documents\GitHub\Laboratorio_II_TP\TP-02\Entidades\obj\Debug\Entidades.pdb

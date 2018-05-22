@@ -32,9 +32,7 @@ namespace Entidades_2017
         {
             this._espacioDisponible = espacioDisponible;
         }
-        #endregion
-
-        
+        #endregion        
 
         #region Métodos
         /// <summary>
@@ -48,7 +46,7 @@ namespace Entidades_2017
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", c._productos.Count, c._espacioDisponible);
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", c._productos.Count, c._espacioDisponible);
             sb.AppendLine("");
             foreach (Producto v in c._productos)
             {
@@ -114,13 +112,23 @@ namespace Entidades_2017
         /// <returns></returns>
         public static Changuito operator +(Changuito c, Producto p)
         {
+            bool flag = false;
+
             foreach (Producto v in c._productos)
             {
                 if (v == p)
-                    return c;
+                {
+                    flag = true;
+                    break;
+                }
+                    
             }
 
-            c._productos.Add(p);
+            if (flag == false && c._productos.Count < c._espacioDisponible)
+            {
+                c._productos.Add(p);
+            }
+            
             return c;
         }
         /// <summary>
